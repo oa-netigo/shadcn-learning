@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button"
-import { AccordionDemo } from "@/demos/Accordion"
+// import { AccordionDemo } from "@/demos/Accordion"
+// import Page from "@/app/login/page"
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         {/* <AccordionDemo /> */}
       </div>
     </div>
+    // <Page />
   )
 }
 
